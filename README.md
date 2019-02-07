@@ -6,33 +6,23 @@ Somos una comunidad con el proposito de culturizar en Data science y Machine Lea
 
 **As to last change, way back in June.**
 
-![Img_current_state](./_img/deferred_lighting.png)
+![Img_current_state](./_img/5.jpeg)
 
 **The report is [here](https://ts/cg/)**
 
-![Img_current_state](./_img/Light_linked_list.png)
+![Img_current_state](./_img/6.jpg)
 
 ## Horario y Lugar
 
-This project need some modules before works.
-
-Install GLAD( Is necessary have glac.c in the main dir):
-
-	git clone https://github.com/Dav1dde/glad.git
-	cd glad
-	cmake ./
-	make 
-	sudo cp -a include /usr/local
-
-Install GLFW(from linux repositories):
-
-	sudo apt-get install libglfw3-dev libglfw3
+Lugar: UCSP - Aula N309
+Horario:
+	Miercoles: 10:00am - 12:00am
+	Sabado:    3:00pm  - 6:00pm
+Email(Momentaneo): richardyantas5@gmai.com
 
 
-## Boos and Notebooks
+## Books and Notebooks
 
 ## Eventos
 
-The project depends on some libraries, which are added as submodules. Make sure you clone the project with the --recursive option, in order to get the dependencies from other repositories.
-
-  git clone
+La proxima convocatoria se estara publicando en estos días.
