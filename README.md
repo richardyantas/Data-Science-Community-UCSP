@@ -4,8 +4,9 @@ Somos una comunidad con el proposito de culturizar en Data science y Machine Lea
 
 ---
 
-![Img_current_state](./img/datalearning.jpeg)
-
+<p align="center">
+  <img width="200" height="200" src="./datalearning.jpeg>
+</p>
 
 **Hidden markov models.**
 
