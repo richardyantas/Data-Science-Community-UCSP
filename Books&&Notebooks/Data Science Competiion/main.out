@@ -1,0 +1,21 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Introductionnn}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{Feature extractionnn\361 from texts and image}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{Categorical and ordinal features}{section.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.3}{Competition Mechanics}{section.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.4}{Datetime and Coordinates}{section.1.1}% 6
+\BOOKMARK [2][-]{subsection.1.1.5}{Handling missing}{section.1.1}% 7
+\BOOKMARK [2][-]{subsection.1.1.6}{Handling missing}{section.1.1}% 8
+\BOOKMARK [2][-]{subsection.1.1.7}{Kaglle overview}{section.1.1}% 9
+\BOOKMARK [2][-]{subsection.1.1.8}{Numeric features}{section.1.1}% 10
+\BOOKMARK [2][-]{subsection.1.1.9}{Recap of main algorithms}{section.1.1}% 11
+\BOOKMARK [0][-]{chapter.2}{Exploratory Data Analysis}{}% 12
+\BOOKMARK [1][-]{section.2.1}{Exploratory Data Analysis}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.1.1}{Building Intuition about the data}{section.2.1}% 14
+\BOOKMARK [2][-]{subsection.2.1.2}{Data cleaning}{section.2.1}% 15
+\BOOKMARK [2][-]{subsection.2.1.3}{Data splitting strategy}{section.2.1}% 16
+\BOOKMARK [2][-]{subsection.2.1.4}{Exploratory data Analysis}{section.2.1}% 17
+\BOOKMARK [2][-]{subsection.2.1.5}{Exploratory anonymized data}{section.2.1}% 18
+\BOOKMARK [2][-]{subsection.2.1.6}{Validation and overfitting}{section.2.1}% 19
+\BOOKMARK [2][-]{subsection.2.1.7}{Validation strategies}{section.2.1}% 20
+\BOOKMARK [2][-]{subsection.2.1.8}{Visualizations}{section.2.1}% 21

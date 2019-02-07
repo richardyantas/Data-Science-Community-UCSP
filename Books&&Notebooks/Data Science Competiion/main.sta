@@ -1,0 +1,8 @@
+\standalonepreambles
+\subpreamble{contents/ch01/ch01.tex}
+\usepackage {docmute}\usepackage {import}\usepackage {tikz}
+\endsubpreamble
+\subpreamble{contents/ch02/ch02.tex}
+\usepackage {docmute}\usepackage {import}\usepackage {tikz}
+\endsubpreamble
+\endstandalonepreambles

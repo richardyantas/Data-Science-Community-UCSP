@@ -1,0 +1,52 @@
+\documentclass[a4paper,12pt]{book}
+%\documentclass[11pt]{article}
+\input{includes.tex}
+\input{colors.tex}
+
+\begin{document}
+    \begin{titlepage}
+        \begin{center}
+        \vspace*{-1in}
+            \begin{figure}[htb]
+            \begin{center}
+                \includegraphics[width=8cm]{zen_as_a_frog.jpg}
+            \end{center}
+            \end{figure}
+
+            Buscando la paz interior...\\
+            \vspace*{0.15in}
+            twiter: @richardyantas5\\
+            \vspace*{0.6in}
+            \begin{large}
+            TITLE:\\
+            \end{large}
+            \vspace*{0.2in}
+            \begin{Large}
+            \textbf{Introduction to Data Science Competition} \\
+            \end{Large}
+            \vspace*{0.3in}
+            \begin{large}
+            \textit{fuente: \href{http://www.prometec.net}{www.prometec.net}}\\
+            \end{large}
+            \vspace*{0.3in}
+            \rule{80mm}{0.1mm}\\
+            \vspace*{0.1in}
+            \begin{large}
+            Versión en \LaTeX: \\
+            Msc(c). Richard Valent\'in Yantas Alcantaraaa\\
+            \end{large}
+        \end{center}
+
+    \end{titlepage}
+
+    \newpage
+    \tableofcontents
+    \newpage
+    \clearpage 
+    \pagenumbering{arabic} 
+    \import{contents/ch01/}{ch01} 
+    \import{contents/ch01/nb/}{nb1}
+    \import{contents/ch02/}{ch02} 
+    \newpage
+    % \input{conclusiones} 
+\end{document}
