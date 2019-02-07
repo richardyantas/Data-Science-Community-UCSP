@@ -4,13 +4,17 @@ Somos una comunidad con el proposito de culturizar en Data science y Machine Lea
 
 ---
 
-**As to last change, way back in June.**
+![Img_current_state](./img/datalearning.jpeg)
 
-![Img_current_state](./_img/5.jpeg)
+
+**Hidden markov models.**
+
+![Img_current_state](./img/5.jpeg)
 
 **The report is [here](https://ts/cg/)**
 
-![Img_current_state](./_img/6.jpg)
+**Data Science Competition.**
+![Img_current_state](./img/6.jpg)
 
 ## Horario y Lugar
 
